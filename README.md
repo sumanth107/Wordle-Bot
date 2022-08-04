@@ -8,5 +8,6 @@ At each step input the result to the bot as a string of characters.
 * x - character present but in a different spot
 
 # Example
-Lets see how our bot performs for the word 'TRAIN'
+Lets see how our bot performs for the word 'TRAIN'  
 
+![](wordle.jpg)
